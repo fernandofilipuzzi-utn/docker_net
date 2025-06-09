@@ -1,5 +1,6 @@
 
 
+## creando la imagen y contenedor
 ```bash
 cd /workspaces/docker_net/EjemploApp/EjemploApp
 docker build -f Dockerfile -t ejemploapp:v0.1 .
